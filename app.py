@@ -81,6 +81,7 @@ st.write(
     - ✅ 2.5 years of internships at great companies like **P&G**, **Dadneo**, and **LiderBCI**
     - ✅ Strong hands on experience and knowledge in Python, R, and Excel.
     - ✅ Good understanding of financial investments and management.
+    - ✅ Fluent in English and Spanish, and basic French.
     - ✅ Excellent team-player and always willing to go the extra mile.
     """
 )
@@ -93,7 +94,7 @@ st.write(
     - 💻 Programming: Python, R, Visual Basic.
     - 📊 Data Visualization: PowerBI, Excel.
     - 📈 Modeling: Logistic Regression, Linear Regression, Decision Trees, Neural Networks.
-    - 📁 Databases: Azure, Access
+    - 📁 Databases: Azure, Access.
     - 💰 Valuation: MonteCarlo Simulation.
     """
 )
@@ -111,7 +112,7 @@ st.write(
     """
     - ♦︎ Plan & execute the Legal Entity Risk Factor project for Chile, where the goal is to better manage risk (operational, reputational, financial) that faces the organization. 
     - ♦︎ Plan & execute the Backup project for Pacific (Colombia, Peru, and Chile), where the goal is to make sure the organization is in compliance with its key processes, as a part of a Business Continuity Plan. 
-    - ♦︎ Monthly analysis of P&G Chile's financial statements to improve awareness and make better decisions
+    - ♦︎ Monthly analysis of P&G Chile's financial statements to improve awareness and make better decisions.
     """
 )
 #---JOB 2---
